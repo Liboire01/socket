@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "messagerie instantanné",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Liboire01/socket.git"
+  },
+  "author": "Liboire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liboire01/socket/issues"
+  },
+  "homepage": "https://github.com/Liboire01/socket#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
